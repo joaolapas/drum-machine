@@ -1,0 +1,2 @@
+*{background:#000}#drum-machine,.App{align-items:center;display:flex;flex-direction:column;justify-content:center}#drum-machine{background-color:#252525;border-radius:20px;height:50vh;width:50vw}#display{align-items:center;background-color:#000;color:#7fffd4;display:flex;height:40px;justify-content:center;width:200px}#drum-pads{display:grid;grid-template-columns:1fr 1fr 1fr;height:200px;width:200px}.drum-pad{background-color:#000;color:#faebd7;font-size:1.2em}#by,h1{color:#faebd7;text-align:center}
+/*# sourceMappingURL=main.a883535d.css.map*/
